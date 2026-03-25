@@ -1,0 +1,12 @@
+Accuracy: 0.8282
+
+Classification Report:
+                        precision    recall  f1-score   support
+
+           alt.atheism       0.86      0.64      0.73       319
+         comp.graphics       0.85      0.95      0.90       389
+soc.religion.christian       0.79      0.86      0.82       398
+
+              accuracy                           0.83      1106
+             macro avg       0.83      0.82      0.82      1106
+          weighted avg       0.83      0.83      0.82      1106
